@@ -1,0 +1,15 @@
+{
+  "name": "playwright-saucedemo-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end (E2E) test automation for saucedemo.com using Playwright. Includes login, add-to-cart, cart validation, and logout flow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
